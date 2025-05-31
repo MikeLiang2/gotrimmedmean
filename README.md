@@ -45,3 +45,10 @@ if err != nil {
     // Handle error  
 }  
 fmt.Printf("Asymmetric trimmed mean (low 20%%, high 10%%): %.2f\n", meanAsym)  
+
+## GenAI Tools
+This project utilized ChatGPT for:  
+Generating explanations for Go module design and usage.  
+Structuring this README.md documentation.  
+Providing implementation guidance for trimmed mean logic.  
+All code was manually reviewed and tested.  

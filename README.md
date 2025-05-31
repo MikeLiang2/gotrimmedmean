@@ -17,10 +17,10 @@ This is a Go package for calculating the **trimmed mean**, supporting both symme
 go mod init yourprojects  
 
 2, Get the trimmed mean package:  
-go get [gitlink](https://github.com/MikeLiang2/gotrimmedmean.git)  
+go get https://github.com/MikeLiang2/gotrimmedmean.git  
 
 ## symmetric trimming usage
-import "[gitlink](https://github.com/MikeLiang2/gotrimmedmean.git)"  
+import "https://github.com/MikeLiang2/gotrimmedmean.git"  
 
 data := []float64{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}  
 
@@ -34,7 +34,7 @@ fmt.Printf("Symmetric trimmed mean (10%%): %.2f\n", meanSym)
 
 
 ## asymmetric trimming
-import "[gitlink](https://github.com/MikeLiang2/gotrimmedmean.git)"  
+import "https://github.com/MikeLiang2/gotrimmedmean.git"  
 
 data := []float64{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}  
 

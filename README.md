@@ -20,7 +20,7 @@ go mod init yourprojects
 go get [gitlink](https://github.com/MikeLiang2/gotrimmedmean.git)  
 
 ## symmetric trimming usage
-import "github.com/yourusername/go-trimmed-mean/trimmedmean"  
+import "[gitlink](https://github.com/MikeLiang2/gotrimmedmean.git)"  
 
 data := []float64{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}  
 
@@ -34,7 +34,7 @@ fmt.Printf("Symmetric trimmed mean (10%%): %.2f\n", meanSym)
 
 
 ## asymmetric trimming
-import "github.com/yourusername/go-trimmed-mean/trimmedmean"  
+import "[gitlink](https://github.com/MikeLiang2/gotrimmedmean.git)"  
 
 data := []float64{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}  
 

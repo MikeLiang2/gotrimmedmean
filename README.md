@@ -17,7 +17,7 @@ This is a Go package for calculating the **trimmed mean**, supporting both symme
 go mod init yourprojects  
 
 2, Get the trimmed mean package:  
-go get github.com/MikeLiang2/gotrimmedmean.git  
+go get github.com/MikeLiang2/gotrimmedmean
 
 ## symmetric trimming usage
 import "github.com/MikeLiang2/gotrimmedmean/trimmedmean"  
